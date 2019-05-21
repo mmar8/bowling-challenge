@@ -1,8 +1,30 @@
+## Bowling Challenge
 
-Bowling Challenge
-=================
 Maker's WEEK 5 weekend challenge. 
 
+## How to run 
+ - git clone this repository
+ - open bowling.html in your browser
+ - open SpecRunner.html to run tests
+ 
+## User Stories 
+```
+ As a Player
+ so I could record and count my score
+ I want to calculate total score of gutter game
+ ```
+ 
+ ```
+ As a Player
+ so I could record and count my score
+ I want to calculate total score of a perfect game
+ ```
+ 
+ ```
+ As a Player
+ so I could record my score
+ I want to calculate total score with no spares
+ ```
 ## The Task
 
 **THIS IS NOT A BOWLING GAME, IT IS A BOWLING SCORECARD. DO NOT GENERATE RANDOM ROLLS. THE USER INPUTS THE ROLLS.**
